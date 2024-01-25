@@ -4,6 +4,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/noupiiii/pokedex-vuejs/blob/main/readme-photos/bg.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/noupiiii/pokedex-vuejs/blob/main/readme-photos/bg.png" alt="project-screenshot" width="1920" height="1080/">
 
-<img src="https://github.com/noupiiii/pokedex-vuejs/blob/main/readme-photos/noc.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/noupiiii/pokedex-vuejs/blob/main/readme-photos/noc.png" alt="project-screenshot" width="1920" height="1080/">
